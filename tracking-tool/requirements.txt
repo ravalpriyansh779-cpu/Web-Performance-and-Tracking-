@@ -1,0 +1,2 @@
+ijson>=3.2
+pytest>=7.4
